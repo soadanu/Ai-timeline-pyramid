@@ -1,0 +1,24 @@
+﻿#,Year,Milestone,Subfield,Significance,Pyramid layer,Source,Check against
+1,Before 1950,Mythical and mechanical roots of thinking machines,Foundations,Ancient myths and early automata set the question AI would later try to answer: can thinking be mechanised?,1. Foundations,Starter bank,Lesson 2.3
+2,1950,Turing proposes the Turing Test,Foundations,Judging a machine by its behaviour replaced an unwinnable argument about consciousness.,1. Foundations,Starter bank,Lesson 2.3
+3,1956,Dartmouth workshop names 'artificial intelligence',Foundations,"The field got a name, a founding meeting and a community.",1. Foundations,Starter bank,Lesson 2.3
+4,1956,The Logic Theorist proves mathematical theorems,Symbolic AI,"The first program widely described as AI showed that a machine could reason, not just calculate.","2. Symbolic AI, expert systems and search",Starter bank,Lesson 2.3
+5,1966,"ELIZA, the first chatbot",Natural Language Processing,"A simple pattern-matcher convinced people it understood them, exposing how readily we trust fluent machines.","2. Symbolic AI, expert systems and search",Starter bank,Lesson 2.3
+6,1980s,Expert systems go commercial,Symbolic AI,AI earned real money for the first time by encoding specialist knowledge as rules.,"2. Symbolic AI, expert systems and search",Starter bank,Lesson 2.3
+7,1986,Backpropagation makes multi-layer networks trainable,Neural Networks,A practical way to train hidden layers brought neural networks back from the sidelines.,3. Machine learning,Starter bank,Lesson 2.5
+8,1980s–1990s,The AI winters,Field History,Broken promises cut funding and taught the field to value evidence over hype.,"2. Symbolic AI, expert systems and search",Starter bank,Lesson 2.3
+9,1997,Deep Blue defeats Kasparov,Game AI / Search,"A machine beat the reigning world chess champion in a full match, a landmark for public confidence in AI.","2. Symbolic AI, expert systems and search",Starter bank,Lesson 2.3
+10,2004–2007,DARPA challenges drive autonomous vehicles,Robotics / Machine Learning,Public competitions turned self-driving cars from a lab dream into a working field.,3. Machine learning,Starter bank,Lesson 2.5
+11,2006–2009,The Netflix Prize,Machine Learning,An open $1 million contest made machine learning on real data a mainstream pursuit.,3. Machine learning,Starter bank,Lesson 2.5
+12,2009,ImageNet is introduced,Computer Vision / Data,A huge labelled image dataset supplied the fuel for the deep-learning boom.,4. Deep learning,Starter bank,Lesson 2.5
+13,2011,Watson wins at Jeopardy!,Natural Language Processing,"A computer handled puns, riddles and wordplay well enough to beat champions on live TV.",3. Machine learning,Starter bank,Lesson 2.3
+14,2010s,The deep learning revolution,Deep Learning,"Big data plus GPUs let neural networks leap ahead on vision, speech and language.",4. Deep learning,Starter bank,Lesson 2.5
+15,2014,Generative adversarial networks (GANs),Generative AI,Two networks competing against each other learned to produce strikingly realistic images.,5. Generative AI and large language models,Starter bank,Lesson 2.7
+16,2017,The Transformer architecture,LLMs / Deep Learning,The attention mechanism became the foundation of every major language model that followed.,5. Generative AI and large language models,Starter bank,Lesson 2.8
+17,2022,ChatGPT brings generative AI to the mainstream,Generative AI / LLMs,"A free, conversational chatbot put large language models in the hands of hundreds of millions of people.",5. Generative AI and large language models,Starter bank,Lesson 2.7
+18,Future,Artificial general intelligence and superintelligence,Future / Speculative,"A theoretical goal that frames today's debates about safety, jobs and governance.",6. The future,Starter bank,Lesson 2.8
+19,1958,Rosenblatt builds the perceptron,Neural Networks,The first artificial neuron that learned from examples planted the seed of modern neural networks.,3. Machine learning,Added by squad,Lesson 2.5
+20,2012,AlexNet wins ImageNet by a wide margin,Computer Vision / Deep Learning,A GPU-trained deep network crushed the competition and convinced the industry to switch to deep learning.,4. Deep learning,Added by squad,Lesson 2.5
+21,2016,AlphaGo defeats Lee Sedol,Reinforcement Learning / Game AI,"A system that combined deep networks, self-play and search mastered a game once thought decades out of reach.",4. Deep learning,Added by squad,Lesson 2.5
+22,2020,GPT-3 shows what scale can do,LLMs,A 175-billion-parameter model could perform new tasks from a few examples in its prompt.,5. Generative AI and large language models,Added by squad,Lesson 2.8
+23,2020,AlphaFold 2 predicts protein structures,Deep Learning / Scientific AI,"Deep learning solved a 50-year-old biology challenge, accelerating scientific research.",4. Deep learning,Added by squad,Lesson 2.5
